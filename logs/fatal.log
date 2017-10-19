@@ -1,0 +1,8 @@
+2017-10-19 12:49:40.065 FATAL [Thread-2][Thread1.java:19] - fatal level-6
+2017-10-19 12:49:40.065 FATAL [Thread-0][Thread1.java:19] - fatal level-6
+2017-10-19 12:49:40.067 FATAL [Thread-0][Thread1.java:25] - fatal level-6
+2017-10-19 12:49:40.067 FATAL [Thread-2][Thread1.java:25] - fatal level-6
+2017-10-19 12:50:36.621 FATAL [Thread-0][Thread1.java:19] - fatal level-6
+2017-10-19 12:50:36.621 FATAL [Thread-2][Thread1.java:19] - fatal level-6
+2017-10-19 12:50:36.623 FATAL [Thread-2][Thread1.java:25] - fatal level-6
+2017-10-19 12:50:36.623 FATAL [Thread-0][Thread1.java:25] - fatal level-6

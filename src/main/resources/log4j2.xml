@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Configuration status="WARN" monitorInterval="300">  
+    <properties>  
+        <property name="LOG_HOME">logs</property>  
+    </properties>  
+    <Appenders>  
+        <Console name="Console" target="SYSTEM_OUT">  
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />  
+        </Console>  
+  
+        <RollingRandomAccessFile name="InfoFile"  
+            fileName="${LOG_HOME}/info.log"  
+            filePattern="${LOG_HOME}/$${date:yyyy-MM}/info-%d{yyyy-MM-dd}-%i.log">  
+            <Filters>  
+                  <!--   onMismatch 首先过滤掉INFO之下的 -->
+                  <ThresholdFilter level="INFO" onMatch="NEUTRAL" onMismatch="DENY"/>
+                  <!--   onMatch首先过滤掉INFO之上的 -->
+                  <ThresholdFilter level="WARN" onMatch="DENY" onMismatch="ACCEPT"/>
+            </Filters>  
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />  
+            <Policies>  
+                <TimeBasedTriggeringPolicy />  
+                <SizeBasedTriggeringPolicy size="10 MB" />  
+            </Policies>  
+            <DefaultRolloverStrategy max="20" />  
+        </RollingRandomAccessFile>  
+          
+        <RollingRandomAccessFile name="ErrorFile"  
+            fileName="${LOG_HOME}/error.log"  
+            filePattern="${LOG_HOME}/$${date:yyyy-MM}/error-%d{yyyy-MM-dd}-%i.log">  
+            
+            <Filters>   
+                 <ThresholdFilter level="error" onMatch="NEUTRAL" onMismatch="DENY"/>   
+                 <ThresholdFilter level="FATAL" onMatch="DENY" onMismatch="ACCEPT"/>
+            </Filters>  
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />  
+            <Policies>  
+                <TimeBasedTriggeringPolicy />  
+                <SizeBasedTriggeringPolicy size="10 MB" />  
+            </Policies>  
+            <DefaultRolloverStrategy max="20" />  
+        </RollingRandomAccessFile>  
+          
+        <RollingRandomAccessFile name="FatalFile"  
+            fileName="${LOG_HOME}/fatal.log"  
+            filePattern="${LOG_HOME}/$${date:yyyy-MM}/fatal-%d{yyyy-MM-dd}-%i.log">  
+            <Filters>  
+                <ThresholdFilter level="fatal" onMatch="ACCEPT" onMismatch="DENY" />  
+            </Filters>  
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />  
+            <Policies>  
+                <TimeBasedTriggeringPolicy />  
+                <SizeBasedTriggeringPolicy size="10 MB" />  
+            </Policies>  
+            <DefaultRolloverStrategy max="20" />  
+        </RollingRandomAccessFile>  
+    </Appenders>  
+  
+    <Loggers>  
+        <Root level="trace">  
+            <AppenderRef ref="Console" />  
+            <AppenderRef ref="InfoFile" />  
+            <AppenderRef ref="ErrorFile" />  
+            <AppenderRef ref="FatalFile" />  
+        </Root>  
+    </Loggers>  
+</Configuration>
