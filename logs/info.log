@@ -1,8 +1,0 @@
-2017-10-19 12:49:40.064 INFO [Thread-0][Thread1.java:16] - info level
-2017-10-19 12:49:40.064 INFO [Thread-2][Thread1.java:16] - info level
-2017-10-19 12:49:40.066 INFO [Thread-2][Thread1.java:22] - info level
-2017-10-19 12:49:40.066 INFO [Thread-0][Thread1.java:22] - info level
-2017-10-19 12:50:36.619 INFO [Thread-0][Thread1.java:16] - info level
-2017-10-19 12:50:36.619 INFO [Thread-2][Thread1.java:16] - info level
-2017-10-19 12:50:36.621 INFO [Thread-0][Thread1.java:22] - info level
-2017-10-19 12:50:36.621 INFO [Thread-2][Thread1.java:22] - info level

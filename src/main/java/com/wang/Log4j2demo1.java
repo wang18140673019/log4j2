@@ -8,5 +8,6 @@ public class Log4j2demo1 {
 		Thread1 mTh2=new Thread1("B");  
 	        mTh1.start();  
 	        mTh2.start();  
+	       
 	}
 }

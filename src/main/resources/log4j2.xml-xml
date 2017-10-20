@@ -10,7 +10,7 @@
   
         <RollingRandomAccessFile name="InfoFile"  
             fileName="${LOG_HOME}/info.log"  
-            filePattern="${LOG_HOME}/$${date:yyyy-MM}/info-%d{yyyy-MM-dd}-%i.log">  
+            filePattern="${LOG_HOME}/${date:yyyy-MM}/info-%d{yyyy-MM-dd}-%i.log">  
             <Filters>  
                   <!--   onMismatch 首先过滤掉INFO之下的 -->
                   <ThresholdFilter level="INFO" onMatch="NEUTRAL" onMismatch="DENY"/>

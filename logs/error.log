@@ -1,8 +1,0 @@
-2017-10-19 12:49:40.065 ERROR [Thread-2][Thread1.java:18] - error level
-2017-10-19 12:49:40.065 ERROR [Thread-0][Thread1.java:18] - error level
-2017-10-19 12:49:40.067 ERROR [Thread-0][Thread1.java:24] - error level
-2017-10-19 12:49:40.067 ERROR [Thread-2][Thread1.java:24] - error level
-2017-10-19 12:50:36.620 ERROR [Thread-0][Thread1.java:18] - error level
-2017-10-19 12:50:36.620 ERROR [Thread-2][Thread1.java:18] - error level
-2017-10-19 12:50:36.623 ERROR [Thread-2][Thread1.java:24] - error level
-2017-10-19 12:50:36.623 ERROR [Thread-0][Thread1.java:24] - error level

@@ -1,0 +1,2850 @@
+2017-10-19 15:32:07,503 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,504 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,504 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,515 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,515 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,515 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,532 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,532 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,532 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,546 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,546 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,549 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,563 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,563 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,564 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,576 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,576 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,577 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,591 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,591 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,591 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,613 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,613 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,613 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,625 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,625 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,625 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,634 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,634 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,635 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,647 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,647 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,647 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,659 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,659 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,659 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,672 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,673 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,673 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,687 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,687 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,687 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,698 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,698 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,698 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,720 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,720 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,720 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,729 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,729 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,729 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,740 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,740 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,750 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,751 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,751 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,760 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,760 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,760 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,772 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,772 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,782 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,782 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,794 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,794 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,794 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,807 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,807 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,807 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,815 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,815 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,816 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,823 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,823 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,823 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,833 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,833 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,833 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,846 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,846 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,846 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,856 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,857 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,857 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,869 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,870 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,870 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,881 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,881 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,881 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,890 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,890 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,890 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,898 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,898 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,898 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,907 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,907 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,907 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,914 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,914 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,914 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,925 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,926 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,929 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,940 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,940 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,940 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,947 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,947 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,947 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,961 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,961 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,961 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,972 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,972 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,972 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,981 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,981 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,981 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,989 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,989 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,989 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:07,998 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:07,998 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:07,998 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,007 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,010 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,019 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,019 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,030 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,030 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,039 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,039 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,039 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,051 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,051 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,063 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,063 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,063 [main] ERROR: Testing testing testing 333
+2017-10-19 15:32:08,074 [main] INFO : Testing testing testing 111
+2017-10-19 15:32:08,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 15:32:08,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,062 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,062 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,062 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,062 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,063 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,063 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,063 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,063 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,063 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,063 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,063 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,063 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,063 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,063 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,064 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,064 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,064 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,064 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,064 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,064 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,064 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,064 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,065 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,065 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,065 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,065 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,065 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,065 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,065 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,065 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,065 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,066 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,066 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,066 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,066 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,066 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,066 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,066 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,066 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,066 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,066 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,066 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,066 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,066 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,067 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,067 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,067 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,067 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,067 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,067 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,067 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,067 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,067 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,067 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,067 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,067 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,067 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,067 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,068 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,068 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,068 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,069 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,069 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,069 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,069 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,069 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,069 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,069 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,070 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,070 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,070 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,071 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,071 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,071 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,071 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,071 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,071 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,071 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,071 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,071 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,071 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,071 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,072 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,072 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,072 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,072 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,073 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,073 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,073 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,073 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,073 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,073 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,074 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,074 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,074 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,075 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,075 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,075 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,076 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,076 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,076 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,076 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,076 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,076 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,076 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,077 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,077 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,077 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,077 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,077 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,077 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,078 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,078 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,078 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,078 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,078 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,079 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,079 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,079 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,079 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,079 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,079 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,079 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,079 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,080 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,080 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,080 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,080 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,080 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,080 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,080 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,080 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,080 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,080 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,080 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,081 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,081 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,081 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,081 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,081 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,082 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,082 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,083 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,083 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,083 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,083 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,083 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,083 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,083 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,083 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,083 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,083 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,083 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,083 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,083 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,083 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,083 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,084 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,084 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,084 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,085 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,085 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,085 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,086 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,086 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,086 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,087 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,087 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,087 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,088 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,088 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,088 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,089 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,089 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,089 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,089 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,089 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,089 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,089 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,089 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,089 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,090 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,090 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,090 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,090 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,090 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,090 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,090 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,090 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,090 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,090 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,090 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,090 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,090 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,090 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,090 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,091 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,091 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,091 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,092 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,092 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,092 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,093 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,093 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,093 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,094 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,094 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,094 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,095 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,095 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,095 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,095 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,095 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,095 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,095 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,095 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,095 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,095 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,095 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,095 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,096 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,096 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,096 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,097 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,097 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,097 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,098 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,098 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,098 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,099 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,099 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,099 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,100 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,100 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,100 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,101 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,101 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,101 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,102 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,102 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,102 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,103 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,103 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,103 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,104 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,104 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,104 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,104 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,104 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,104 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,104 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,105 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,106 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,106 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,106 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,107 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,107 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,107 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,108 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,108 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,108 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,109 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,109 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,109 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,110 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,110 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,110 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,111 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,111 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,111 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,111 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,111 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,111 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,111 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,111 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,111 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,111 [main] ERROR: Testing testing testing 333
+2017-10-19 16:00:48,111 [main] INFO : Testing testing testing 111
+2017-10-19 16:00:48,111 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:00:48,111 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,731 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,733 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,733 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,733 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,733 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,734 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,734 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,734 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,734 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,734 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,734 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,734 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,734 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,734 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,734 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,735 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,735 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,735 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,735 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,735 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,735 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,735 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,735 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,735 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,735 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,735 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,735 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,735 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,735 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,736 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,736 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,736 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,736 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,736 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,736 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,736 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,736 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,736 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,736 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,736 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,736 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,736 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,736 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,737 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,737 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,737 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,737 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,737 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,737 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,737 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,737 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,737 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,737 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,737 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,737 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,737 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,737 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,738 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,738 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,738 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,738 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,738 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,738 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,738 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,738 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,738 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,738 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,738 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,738 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,738 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,738 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,738 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,739 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,739 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,739 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,739 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,739 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,739 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,739 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,739 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,739 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,739 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,739 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,740 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,740 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,740 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,740 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,740 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,740 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,740 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,740 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,740 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,740 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,741 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,741 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,741 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,741 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,741 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,741 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,741 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,741 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,741 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,741 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,741 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,743 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,743 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,743 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,743 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,743 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,743 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,744 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,744 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,744 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,744 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,744 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,744 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,744 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,744 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,744 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,744 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,744 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,744 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,744 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,744 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,745 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,745 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,745 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,745 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,745 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,745 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,745 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,746 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,746 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,746 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,746 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,746 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,746 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,746 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,746 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,746 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,746 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,746 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,747 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,747 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,747 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,747 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,747 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,747 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,747 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,748 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,748 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,748 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,748 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,748 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,748 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,748 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,749 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,749 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,749 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,750 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,750 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,750 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,751 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,751 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,751 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,752 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,752 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,752 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,752 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,752 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,752 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,752 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,753 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,753 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,753 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,753 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,753 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,753 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,753 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,753 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,753 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,753 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,753 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,754 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,754 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,754 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,755 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,755 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,755 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,756 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,756 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,756 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,757 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,757 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,757 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,758 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,758 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,758 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,758 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,758 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,758 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,758 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,758 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,758 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,758 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,758 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,758 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,758 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,759 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,759 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,759 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,759 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,759 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,759 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,759 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,760 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,760 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,760 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,760 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,760 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,760 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,761 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,761 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,761 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,762 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,762 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,762 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,763 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,763 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,763 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,764 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,764 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,764 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,765 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,765 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,765 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,766 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,766 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,766 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,767 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,767 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,767 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,767 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,767 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,767 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,767 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,767 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,767 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,768 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,768 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,768 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,769 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,769 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,769 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,769 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,769 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,769 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,769 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,770 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,770 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,770 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,771 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,771 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,771 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,772 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,772 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,772 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,773 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,773 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,773 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,774 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,774 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,774 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,775 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,775 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,776 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,776 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,776 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,776 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,776 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,776 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,776 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,776 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,776 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,777 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,777 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,777 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,778 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,778 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,778 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,779 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,779 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,779 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,780 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,780 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,780 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,781 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,781 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,781 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,782 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,782 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,782 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,783 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,783 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,783 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,784 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,784 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,784 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,784 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,784 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,784 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,784 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,784 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,784 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,784 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,784 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,784 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,784 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,784 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,784 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,785 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,785 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,785 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,785 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,785 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:26,785 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:26,785 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:26,785 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,005 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,007 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,007 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,007 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,007 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,007 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,007 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,007 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,007 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,007 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,007 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,008 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,008 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,008 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,008 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,008 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,008 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,008 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,008 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,008 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,008 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,008 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,008 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,008 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,008 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,009 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,009 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,009 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,009 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,009 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,009 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,009 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,009 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,009 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,009 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,009 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,009 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,009 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,010 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,010 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,010 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,010 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,010 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,010 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,010 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,010 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,010 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,010 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,010 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,011 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,011 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,011 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,011 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,011 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,011 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,011 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,011 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,011 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,011 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,011 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,012 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,012 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,012 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,013 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,013 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,013 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,013 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,013 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,013 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,013 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,013 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,013 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,013 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,013 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,013 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,013 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,013 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,013 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,014 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,014 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,014 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,014 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,014 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,014 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,014 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,014 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,014 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,015 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,015 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,015 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,015 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,015 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,016 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,016 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,016 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,017 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,017 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,017 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,017 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,017 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,017 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,017 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,018 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,018 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,018 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,019 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,019 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,019 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,019 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,019 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,019 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,019 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,019 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,019 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,019 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,019 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,020 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,020 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,020 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,020 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,020 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,020 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,020 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,020 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,020 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,020 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,020 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,020 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,020 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,020 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,020 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,021 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,021 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,021 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,021 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,021 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,021 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,021 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,021 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,021 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,021 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,021 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,022 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,022 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,022 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,022 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,022 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,022 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,022 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,022 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,022 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,022 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,022 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,023 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,023 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,023 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,023 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,023 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,023 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,023 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,023 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,023 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,023 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,023 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,024 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,024 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,024 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,025 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,025 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,025 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,025 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,025 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,025 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,025 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,025 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,025 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,025 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,025 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,026 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,026 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,026 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,026 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,026 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,026 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,027 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,027 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,027 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,027 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,027 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,027 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,027 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,027 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,027 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,027 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,027 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,028 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,028 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,028 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,029 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,029 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,029 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,030 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,030 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,030 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,031 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,031 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,031 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,032 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,032 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,032 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,033 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,033 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,033 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,034 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,034 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,034 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,035 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,035 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,035 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,036 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,036 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,036 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,037 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,037 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,037 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,037 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,037 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,037 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,037 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,037 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,037 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,037 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,037 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,038 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,038 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,038 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,041 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,041 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,041 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,041 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,041 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,041 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,041 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,041 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,041 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,041 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,041 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,042 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,042 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,042 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,044 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,044 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,044 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,045 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,045 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,045 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,046 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,046 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,046 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,047 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,047 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,047 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,048 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,048 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,048 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,049 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,049 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,049 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,050 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,050 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,050 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,051 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,051 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,051 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,052 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,052 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,052 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,053 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,053 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,053 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,057 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,057 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,057 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,057 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,057 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,057 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,057 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,057 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,057 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,057 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,057 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,059 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,059 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,060 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,060 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,060 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,061 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,061 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,061 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,061 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,061 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,061 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,061 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,061 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,061 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,061 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,061 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,061 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,061 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,061 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,061 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,064 [main] ERROR: Testing testing testing 333
+2017-10-19 16:02:54,064 [main] INFO : Testing testing testing 111
+2017-10-19 16:02:54,064 [main] DEBUG: Testing testing testing 222
+2017-10-19 16:02:54,064 [main] ERROR: Testing testing testing 333

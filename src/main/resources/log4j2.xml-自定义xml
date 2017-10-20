@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Configuration status="DEBUG" >  
+    <properties>  
+        <property name="LOG_HOME">logs</property>  
+    </properties>  
+    <Appenders>  
+        <Console name="Stdout" target="SYSTEM_OUT">  
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />  
+        </Console>  
+  
+        <RollingRandomAccessFile name="rolling"  
+            fileName="${LOG_HOME}/info-%d{yy-MM-dd-HH-mm}.log"  
+            filePattern="${LOG_HOME}/info/info-%d{yy-MM-dd-HH-mm}.log">  
+            <Filters>  
+                  <!--   onMismatch 首先过滤掉INFO之下的 -->
+                  <ThresholdFilter level="INFO" onMatch="NEUTRAL" onMismatch="DENY"/>
+                  <!--   onMatch首先过滤掉INFO之上的 -->
+                  <ThresholdFilter level="WARN" onMatch="DENY" onMismatch="ACCEPT"/>
+            </Filters>  
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />  
+            <Policies>  
+                <TimeBasedTriggeringPolicy />  
+                <SizeBasedTriggeringPolicy size="100MB" />  
+            </Policies>  
+            <DefaultRolloverStrategy max="100" />  
+        </RollingRandomAccessFile>  
+          
+     
+    </Appenders>  
+    <Loggers>   
+        <Root level="DEBUG">  
+            <AppenderRef ref="Stdout" />  
+            <AppenderRef ref="rolling" /> 
+        </Root> 
+         <TestLogger level="DEBUG" additivity="false" >  
+            <AppenderRef ref="Stdout" />   
+            </TestLogger>   
+    </Loggers>  
+</Configuration>
