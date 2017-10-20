@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<Configuration status="DEBUG" >  
+    <properties>  
+        <property name="LOG_HOME">logs</property>  
+    </properties>  
+    <Appenders>  
+        <Console name="Stdout" target="SYSTEM_OUT">  
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />  
+        </Console>  
+  <Routing name="Routing">
+            <Routes pattern="$${ctx:ROUTINGKEY}">
+                <!-- This route is chosen if ThreadContext has value 'special' for key ROUTINGKEY. -->
+                <Route key="special">
+                    <RollingFile name="Rolling-${ctx:ROUTINGKEY}" fileName="logs/special-${ctx:ROUTINGKEY}.log"
+                                 filePattern="./logs/${date:yyyy-MM}/${ctx:ROUTINGKEY}-special-%d{yyyy-MM-dd}-%i.log.gz">
+                        <PatternLayout>
+                            <Pattern>%d{ISO8601} [%t] %p %c{3} - %m%n</Pattern>
+                        </PatternLayout>
+                        <Policies>
+                            <TimeBasedTriggeringPolicy interval="6" modulate="true"/>
+                            <SizeBasedTriggeringPolicy size="10 MB"/>
+                        </Policies>
+                    </RollingFile>
+                </Route>
+                <!-- This route is chosen if ThreadContext has no value for key ROUTINGKEY. -->
+                <Route key="$${ctx:ROUTINGKEY}">
+                    <RollingFile name="Rolling-default" fileName="logs/default.log"
+                                 filePattern="./logs/${date:yyyy-MM}/default-%d{yyyy-MM-dd}-%i.log.gz">
+                        <PatternLayout>
+                            <pattern>%d{ISO8601} [%t] %p %c{3} - %m%n</pattern>
+                        </PatternLayout>
+                        <Policies>
+                            <TimeBasedTriggeringPolicy interval="6" modulate="true"/>
+                            <SizeBasedTriggeringPolicy size="10 MB"/>
+                        </Policies>
+                    </RollingFile>
+                </Route>
+                <!-- This route is chosen if ThreadContext has a value for ROUTINGKEY
+                     (other than the value 'special' which had its own route above).
+                     The value dynamically determines the name of the log file. -->
+                <Route>
+                    <RollingFile name="Rolling-${ctx:ROUTINGKEY}" fileName="logs/other-${ctx:ROUTINGKEY}.log"
+                                 filePattern="./logs/${date:yyyy-MM}/${ctx:ROUTINGKEY}-other-%d{yyyy-MM-dd}-%i.log.gz" append = "false">
+                        <PatternLayout>
+                            <pattern>%d{ISO8601} [%t] %p %c{3} - %m%n</pattern>
+                        </PatternLayout>
+                        <Policies>
+                            <TimeBasedTriggeringPolicy interval="6" modulate="true"/>
+                            <SizeBasedTriggeringPolicy size="10 MB"/>
+                        </Policies>
+                    </RollingFile>
+                </Route>
+            </Routes>
+        </Routing>
+     <!--     <Async name="async" bufferSize="1000" includeLocation="true">
+            <AppenderRef ref="Routing"/>
+        </Async>-->
+        <RollingRandomAccessFile name="rolling"  
+            fileName="${LOG_HOME}/info-%d{yy-MM-dd-HH-mm}.log"  
+            filePattern="${LOG_HOME}/info/info-%d{yy-MM-dd-HH-mm}.log">  
+            <Filters>  
+                  <!--   onMismatch 首先过滤掉INFO之下的 -->
+                  <ThresholdFilter level="INFO" onMatch="NEUTRAL" onMismatch="DENY"/>
+                  <!--   onMatch首先过滤掉INFO之上的 -->
+                  <ThresholdFilter level="WARN" onMatch="DENY" onMismatch="ACCEPT"/>
+            </Filters>  
+            <PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />  
+            <Policies>  
+                <TimeBasedTriggeringPolicy />  
+                <SizeBasedTriggeringPolicy size="100MB" />  
+            </Policies>  
+            <DefaultRolloverStrategy max="100" />  
+        </RollingRandomAccessFile>  
+          
+     
+    </Appenders>  
+    <Loggers>   
+        <Root level="DEBUG">  
+            <AppenderRef ref="Stdout" />  
+            <AppenderRef ref="rolling" /> 
+              <AppenderRef ref="Routing" /> 
+        </Root> 
+         <TestLogger level="DEBUG" additivity="false" >  
+            <AppenderRef ref="Stdout" />   
+            </TestLogger>   
+    </Loggers>  
+</Configuration>

@@ -21,7 +21,7 @@ import org.apache.logging.log4j.core.config.builder.impl.BuiltConfiguration;
 
 
 /**
- * 现在是不支持多线程的
+ * 现在是不支持根据线程输出的(在多线程中多次调用该方法会出现问题)，貌似log4j2不支持多线程，里面好多类都是static的
  * 自定义日志:可根据需求设置不同的日志格式，
  * 参考网址：http://logging.apache.org/log4j/2.x/manual/customconfig.html
  */
@@ -71,6 +71,16 @@ public class JobLogFactory {
 		    .add( builder.newAppenderRef( "rolling" ) )
 		    .add( builder.newAppenderRef( "Stdout" ) )
 		    );
+		
+		builder.add( builder.newRootLogger( Level.DEBUG )
+			    .add( builder.newAppenderRef( "rolling" ) )
+			    .add( builder.newAppenderRef( "Stdout" ) )
+			    );
+		//异步日志
+		builder.add(builder.newAsyncRootLogger(Level.DEBUG)
+				  .add( builder.newAppenderRef( "rolling" ) )
+				    .add( builder.newAppenderRef( "Stdout" ) )
+				    );
 		LoggerContext ctx = Configurator.initialize(builder.build());
 		System.out.println("LoggerContext ctx : "+ctx);
 	}

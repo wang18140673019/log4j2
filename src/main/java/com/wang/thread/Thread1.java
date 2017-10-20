@@ -8,24 +8,23 @@ import com.wang.custom.JobLogFactory;
 public class Thread1 extends Thread{  
     private String name;  
     //public Logger logger = LogManager.getLogger(LogManager.ROOT_LOGGER_NAME);
-  //  public  Logger logger = JobLogFactory.createLogger(12);
-    public Thread1(String name) {  
+    ThreadLocal<Logger> loggerLocal= new ThreadLocal<Logger>();
+    
+    public Thread1(String name) { 
+    	super(name);
        this.name=name;  
     }  
     public void run() {  
-    	Logger logger = JobLogFactory.createLogger(12);   
-			logger.trace("trace level"+"-1");  
-			logger.debug("debug level");  
+    	Logger logger=null;
+    	synchronized (Thread1.class) {
+    		logger=JobLogFactory.createLogger(12);
+    	    loggerLocal.set(logger);
+		}
+    	    logger=loggerLocal.get();
 			logger.info("info level");  
-			logger.warn("warn level");  
-			logger.error("error level");  
-			logger.fatal("fatal level"+"-6");
-			logger.trace("trace level"+"-1");  
-			logger.debug("debug level");  
+			logger.info("info level");
+			logger.info("info level");
 			logger.info("info level");  
-			logger.warn("warn level");  
-			logger.error("error level");  
-			logger.fatal("fatal level"+"-6");  
     
          
     }  
